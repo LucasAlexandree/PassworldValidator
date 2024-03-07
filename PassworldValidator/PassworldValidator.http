@@ -1,0 +1,6 @@
+@PassworldValidator_HostAddress = http://localhost:5297
+
+GET {{PassworldValidator_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
